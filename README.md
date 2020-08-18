@@ -1,5 +1,28 @@
-### Добро пожаловать в мой профиль гит хаба. 
-- Я пытаюсь программировать на Python ботов.🌴
-- Учусь Социальной инженерии 🌍
+## Привет, меня зовут [Арс Изи]. 
+### И ты находишься на главной странице моего Github профиля :)
+---
+Я разработчик.
++ Кстати, вот мои соц. сети где я часто залипаю, можешь подписывать на них, мне будет приятно.
 
-[![stats](https://github-readme-stats.vercel.app/api?username=arsizi&show_icons=true&theme=synthwave&title_color=3&count_private=true)](100minecraftskin.net/duvibot)
+<a href="https://github.com/arsizi">
+  <img align="left" alt="Second Github Profile" width="31px" src="https://raw.githubusercontent.com/perssBest/perssBest/master/assets/github.svg" />
+</a>
+
+<br>
+<br>
+
+---
+
+---
+
+
+---
+
+<a href="https://github.com/arsizi">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=arsizi&show_icons=true&include_all_commits=true&theme=dark" alt="arsizi's github stats" />
+</a>
+<a href="https://github.com/arsizi">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=arsizi&layout=compact&theme=dark" />
+</a>
+
+<a href="https://github.com/arsizi">
