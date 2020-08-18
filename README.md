@@ -11,13 +11,6 @@
 <br>
 <br>
 
----
-
----
-
-
----
-
 <a href="https://github.com/arsizi">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=arsizi&show_icons=true&include_all_commits=true&theme=dark" alt="arsizi's github stats" />
 </a>
